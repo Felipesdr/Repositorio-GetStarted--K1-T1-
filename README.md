@@ -1,0 +1,3 @@
+# Aprendizado na trilha de git
+
+Durante essa trilha, aprendemos aprofundadamente sobre git e seus conceitos relacionados. Destaco aqui o conhecimento sobre os 4 possiveis estados de um arquivo dentro de um repositorio e o ciclo de vida dos arquivos. Apesar de já ter o hábito de usar o github (somente para desenvolvimento solo) é muito importante aprofundar o conhecimento e entender de fato as ferramentas que usamos.
